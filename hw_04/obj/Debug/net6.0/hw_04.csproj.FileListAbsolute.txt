@@ -1,0 +1,15 @@
+C:\Users\Julia\GoogleDrive\GB\Developer\Введение\HW_C#\hw_04\bin\Debug\net6.0\hw_04.exe
+C:\Users\Julia\GoogleDrive\GB\Developer\Введение\HW_C#\hw_04\bin\Debug\net6.0\hw_04.deps.json
+C:\Users\Julia\GoogleDrive\GB\Developer\Введение\HW_C#\hw_04\bin\Debug\net6.0\hw_04.runtimeconfig.json
+C:\Users\Julia\GoogleDrive\GB\Developer\Введение\HW_C#\hw_04\bin\Debug\net6.0\hw_04.dll
+C:\Users\Julia\GoogleDrive\GB\Developer\Введение\HW_C#\hw_04\bin\Debug\net6.0\hw_04.pdb
+C:\Users\Julia\GoogleDrive\GB\Developer\Введение\HW_C#\hw_04\obj\Debug\net6.0\hw_04.csproj.AssemblyReference.cache
+C:\Users\Julia\GoogleDrive\GB\Developer\Введение\HW_C#\hw_04\obj\Debug\net6.0\hw_04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Julia\GoogleDrive\GB\Developer\Введение\HW_C#\hw_04\obj\Debug\net6.0\hw_04.AssemblyInfoInputs.cache
+C:\Users\Julia\GoogleDrive\GB\Developer\Введение\HW_C#\hw_04\obj\Debug\net6.0\hw_04.AssemblyInfo.cs
+C:\Users\Julia\GoogleDrive\GB\Developer\Введение\HW_C#\hw_04\obj\Debug\net6.0\hw_04.csproj.CoreCompileInputs.cache
+C:\Users\Julia\GoogleDrive\GB\Developer\Введение\HW_C#\hw_04\obj\Debug\net6.0\hw_04.dll
+C:\Users\Julia\GoogleDrive\GB\Developer\Введение\HW_C#\hw_04\obj\Debug\net6.0\refint\hw_04.dll
+C:\Users\Julia\GoogleDrive\GB\Developer\Введение\HW_C#\hw_04\obj\Debug\net6.0\hw_04.pdb
+C:\Users\Julia\GoogleDrive\GB\Developer\Введение\HW_C#\hw_04\obj\Debug\net6.0\hw_04.genruntimeconfig.cache
+C:\Users\Julia\GoogleDrive\GB\Developer\Введение\HW_C#\hw_04\obj\Debug\net6.0\ref\hw_04.dll
