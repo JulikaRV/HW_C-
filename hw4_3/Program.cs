@@ -12,7 +12,8 @@ int[] GetArray(int size)
     int[] arr = new int[size];
     for (int i = 0; i < size; i++)
     {
-        arr[i] = new Random().Next(9);
+        Random rand = new Random();
+        arr[i] = rand.Next(0, 9);
     }
     return arr;
 }
